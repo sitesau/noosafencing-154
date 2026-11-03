@@ -1,0 +1,22 @@
+{
+  "wheel_id": 694,
+  "structure": "umbrella",
+  "slug": "noosafencing-154",
+  "project": "fencing-contractors-noosa-maintenance-f768798015d7f7206a958f966",
+  "parent_t1_ref": "noosafencing-008",
+  "node_role": "buffer",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa maintenance",
+  "intended_url": "http://fencing-contractors-noosa-maintenance-f768798015d7f7206a958f966.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "faed85ea69d7b57f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/fencing-contractors-noosa-008/",
+      "anchor": "the fencing contractors noosa overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
